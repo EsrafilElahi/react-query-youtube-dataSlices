@@ -1,0 +1,1 @@
+When working on complex projects with React Query, it's important to break down the data into manageable "slices" or logical units. For a YouTube-like application, you could have slices of data such as videos, comments, user profiles, and subscriptions. Here's an example of how you can handle each slice of data using React Query:
